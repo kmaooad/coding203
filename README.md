@@ -9,7 +9,7 @@
 2) passing unit tests with reasonable coverage (>80%); 
 3) diagram of _explicit and implicit_ dependencies (simplified UML-style: only boxes and arrows).
 
-[Join assignment in GitHub Classroom](https://classroom.github.com/)
+[Join assignment in GitHub Classroom](https://classroom.github.com/g/gbyRneur)
 
 ---------
 
